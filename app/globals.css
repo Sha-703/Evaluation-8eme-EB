@@ -84,11 +84,11 @@ body {
   width: 100%;
   padding: 18px 24px;
   margin-top: auto;
-  background: rgba(255, 255, 255, 0.72);
+  background: rgba(15, 23, 42, 0.95);
   backdrop-filter: blur(14px);
   border-top: 1px solid rgba(148, 163, 184, 0.18);
   text-align: center;
-  color: #475569;
+  color: #f8fafc;
   font-size: 0.95rem;
 }
 
@@ -131,6 +131,14 @@ select {
   gap: 16px;
   margin-bottom: 24px;
   text-align: center;
+}
+
+.section-header h1 {
+  color: #1f2937;
+}
+
+.section-header p {
+  color: #1f2937;
 }
 
 .grid {
@@ -670,13 +678,13 @@ p {
 
 .dashboard-card h2 {
   margin: 0 0 12px;
-  color: #1f2937;
+  color: #f8fafc;
 }
 
 .dashboard-card p {
   margin: 0;
   text-align: center;
-  color: #6b7280;
+  color: #f8fafc;
 }
 
 .progress-card {
@@ -696,7 +704,7 @@ p {
 
 .progress-subtitle {
   margin: 0;
-  color: #64748b;
+  color: #f8fafc;
   font-size: 0.95rem;
 }
 
@@ -707,7 +715,7 @@ p {
 .progress-label {
   margin-bottom: 8px;
   font-weight: 600;
-  color: #334155;
+  color: #f8fafc;
 }
 
 .progress-bar {
@@ -730,19 +738,19 @@ p {
 
 .progress-meta {
   margin-top: 8px;
-  color: #64748b;
+  color: #f8fafc;
   font-size: 0.95rem;
 }
 
 .progress-average {
   margin-top: 18px;
   font-weight: 600;
-  color: #1f2937;
+  color: #f8fafc;
 }
 
 .progress-loading {
   margin-top: 16px;
-  color: #64748b;
+  color: #f8fafc;
   font-size: 0.95rem;
 }
 
