@@ -1,0 +1,212 @@
+[
+  {
+    "id": "mtic-21",
+    "title": "MTIC 2.1 : Les Tableaux dans Microsoft Word",
+    "summary": "Apprendre à créer et organiser un tableau dans Microsoft Word avec les informations des êtres vivants.",
+    "content": "Bonjour à tous ! Aujourd'hui, nous allons apprendre à utiliser les tableaux avec Microsoft Word. Un tableau est l'outil idéal pour organiser les informations de façon claire et professionnelle. Il se compose de lignes (horizontales) et de colonnes (verticales). Pour notre exercice, vous devez d'abord ouvrir un navigateur Internet afin de rechercher les caractéristiques des êtres vivants (plantes, animaux, humains). Ensuite, dans Microsoft Word, vous allez créer un tableau de 4 colonnes et 5 lignes. N'oubliez pas d'ajouter le titre obligatoire : « Caractéristiques des êtres vivants ». Une fois les informations saisies dans les cases, vous devez impérativement enregistrer votre fichier pour ne pas le perdre. Enfin, la dernière étape consiste à imprimer le document pour me le remettre.",
+    "questions": [
+      {
+        "question": "Quel est le sujet principal de la leçon MTIC 2.1 ?",
+        "choices": ["La musique", "Les tableaux Word", "La peinture"],
+        "answer": "Les tableaux Word"
+      },
+      {
+        "question": "Quelle est l'utilité principale d'un tableau ?",
+        "choices": ["Jouer", "Organiser les informations", "Écouter de la musique"],
+        "answer": "Organiser les informations"
+      },
+      {
+        "question": "De quoi est composé un tableau ?",
+        "choices": ["De lignes et colonnes", "De pages et dossiers", "De menus et fenêtres"],
+        "answer": "De lignes et colonnes"
+      },
+      {
+        "question": "Quel logiciel utilise-t-on pour créer ce tableau ?",
+        "choices": ["WhatsApp", "Paint", "Microsoft Word"],
+        "answer": "Microsoft Word"
+      },
+      {
+        "question": "Sur quoi porte la recherche d'informations ?",
+        "choices": ["Les maisons", "Les êtres vivants", "Les véhicules"],
+        "answer": "Les êtres vivants"
+      },
+      {
+        "question": "Combien de colonnes et lignes sont demandées ?",
+        "choices": ["4 colonnes et 5 lignes", "2 colonnes et 2 lignes", "10 colonnes et 1 ligne"],
+        "answer": "4 colonnes et 5 lignes"
+      },
+      {
+        "question": "Quelle action permet de ne pas perdre son travail ?",
+        "choices": ["Effacer", "Enregistrer", "Fermer sans cliquer"],
+        "answer": "Enregistrer"
+      },
+      {
+        "question": "Quel outil aide à chercher des infos sur Internet ?",
+        "choices": ["Une calculatrice", "Un navigateur", "Le bouton démarrer"],
+        "answer": "Un navigateur"
+      },
+      {
+        "question": "Quel est le titre exact à écrire sur le document ?",
+        "choices": ["Leçon d'internet", "Caractéristiques des êtres vivants", "Les plantes vertes"],
+        "answer": "Caractéristiques des êtres vivants"
+      },
+      {
+        "question": "Quelle est la dernière étape après avoir fini ?",
+        "choices": ["Jouer", "Imprimer le document", "Effacer le tableau"],
+        "answer": "Imprimer le document"
+      }
+    ]
+  },
+  {
+    "id": "mtic-22",
+    "title": "MTIC 2.2",
+    "summary": "Notions de bureautique et gestion de fichiers.",
+    "content": "Ce module explique comment créer, enregistrer et organiser des documents sur l’ordinateur avec des dossiers et fichiers.",
+    "questions": [
+      {
+        "question": "Comment appelle-t-on un dossier qui contient d’autres fichiers ?",
+        "choices": ["Un fichier", "Un répertoire", "Un programme", "Une application"],
+        "answer": "Un répertoire"
+      },
+      {
+        "question": "Que signifie 'enregistrer un document' ?",
+        "choices": ["L’imprimer", "Le sauvegarder", "Le supprimer", "Le fermer"],
+        "answer": "Le sauvegarder"
+      }
+    ]
+  },
+  {
+    "id": "mtic-23",
+    "title": "MTIC 2.3",
+    "summary": "Sécurité numérique et protection des données personnelles.",
+    "content": "Ce module montre comment protéger son mot de passe, ses informations et éviter les dangers du web.",
+    "questions": [
+      {
+        "question": "Que faut-il faire avec son mot de passe ?",
+        "choices": ["Le partager avec un ami", "L’écrire sur le bureau", "Le garder secret", "Le mettre en commentaire"],
+        "answer": "Le garder secret"
+      },
+      {
+        "question": "Quel comportement est sûr sur Internet ?",
+        "choices": ["Cliquer sur tous les liens", "Envoyer ses mots de passe", "Utiliser un mot de passe fort", "Répondre à un message inconnu"],
+        "answer": "Utiliser un mot de passe fort"
+      }
+    ]
+  },
+  {
+    "id": "mtic-24",
+    "title": "MTIC 2.4 : Découvrir l'interface du tableur MS Excel",
+    "summary": "Découvrir l'interface du tableur MS Excel, les cellules, les barres d'outils et organiser un tableau sur les bienfaits et méfaits de l'eau.",
+    "content": "Bonjour à tous ! Aujourd'hui, nous allons étudier la leçon MTIC 2.4 pour découvrir l'interface du tableur MS Excel. Ce logiciel permet de travailler dans un document appelé classeur, qui contient des feuilles de calcul. Dans ces feuilles, vous trouverez des barres d'outils et des petites cases appelées des cellules pour écrire vos données. Pour notre exercice pratique, vous devez utiliser un navigateur Internet afin de faire des recherches sur les bienfaits et les méfaits de l'eau. Après votre recherche, vous allez créer un tableau dans Excel pour y organiser proprement les informations trouvées. Vous devez ensuite mettre le tableau en forme pour le rendre beau et lisible. Enfin, pour terminer notre projet, vous devez impérativement enregistrer votre fichier sur l'ordinateur puis imprimer votre travail pour me le remettre. Excellente séance à tous !",
+    "questions": [
+      {
+        "question": "Quel est l'objectif principal de la leçon MTIC 2.4 ?",
+        "choices": ["Apprendre à dessiner des formes", "Découvrir l'interface d'Excel", "Écrire une lettre sur Word"],
+        "answer": "Découvrir l'interface d'Excel"
+      },
+      {
+        "question": "Comment s'appelle le document dans lequel on travaille avec Excel ?",
+        "choices": ["Un article", "Un classeur", "Un dossier"],
+        "answer": "Un classeur"
+      },
+      {
+        "question": "Comment s'appellent les petites cases où l'on écrit dans Excel ?",
+        "choices": ["Des cellules", "Des images", "Des paragraphes"],
+        "answer": "Des cellules"
+      },
+      {
+        "question": "Que devez-vous rechercher sur Internet pour l'exercice pratique ?",
+        "choices": ["Les bienfaits et méfaits de l'eau", "Les meilleurs jeux vidéo", "Des recettes de cuisine"],
+        "answer": "Les bienfaits et méfaits de l'eau"
+      },
+      {
+        "question": "Où devez-vous organiser les informations trouvées ?",
+        "choices": ["Dans un tableau Excel", "Dans une présentation", "Dans un dessin"],
+        "answer": "Dans un tableau Excel"
+      },
+      {
+        "question": "Que faut-il faire pour rendre le tableau lisible ?",
+        "choices": ["Le mettre en forme", "Le cacher", "Le supprimer"],
+        "answer": "Le mettre en forme"
+      },
+      {
+        "question": "Quelle action est impérative après avoir fini le tableau ?",
+        "choices": ["Fermer le navigateur", "Enregistrer le fichier", "Changer l'ordinateur"],
+        "answer": "Enregistrer le fichier"
+      },
+      {
+        "question": "Quel outil devez-vous utiliser pour faire des recherches ?",
+        "choices": ["Un navigateur Internet", "Une calculatrice", "Un appareil photo"],
+        "answer": "Un navigateur Internet"
+      },
+      {
+        "question": "Sur quel support devez-vous enregistrer votre travail ?",
+        "choices": ["Sur l'ordinateur", "Sur une feuille volante", "Sur une cassette"],
+        "answer": "Sur l'ordinateur"
+      },
+      {
+        "question": "Quelle est la dernière étape demandée pour le projet ?",
+        "choices": ["Imprimer le travail", "Envoyer un e-mail", "Regarder une vidéo"],
+        "answer": "Imprimer le travail"
+      }
+    ]
+  },
+  {
+    "id": "mtic-25",
+    "title": "MTIC 2.5 : Formules et opérateurs",
+    "summary": "Apprendre à utiliser les formules et opérateurs dans Excel pour effectuer des calculs simples.",
+    "content": "Ce module explique comment utiliser les formules et les opérateurs arithmétiques dans Excel pour faire des calculs automatiques comme l'addition, la soustraction, la multiplication et la division.",
+    "questions": [
+      {
+        "question": "Quel est l'objectif principal de la leçon MTIC 2.5 ?",
+        "choices": ["Apprendre à dessiner des formes", "Faire des calculs dans Excel", "Écrire une lettre sur Word"],
+        "answer": "Faire des calculs dans Excel"
+      },
+      {
+        "question": "Quel signe utilise-t-on pour faire une addition dans Excel ?",
+        "choices": ["Le signe ( / )", "Le signe ( * )", "Le signe ( + )"],
+        "answer": "Le signe ( + )"
+      },
+      {
+        "question": "Quel signe représente la division sur le clavier ?",
+        "choices": ["Le slash ( / )", "Le tiret ( - )", "Le signe ( + )"],
+        "answer": "Le slash ( / )"
+      },
+      {
+        "question": "Quel symbole devez-vous utiliser pour faire une multiplication ?",
+        "choices": ["Le point d'exclamation", "L'astérisque ( * )", "Le signe plus"],
+        "answer": "L'astérisque ( * )"
+      },
+      {
+        "question": "Quelles informations devez-vous rechercher sur Internet ?",
+        "choices": ["Des images d'animaux", "Les matériels électriques et leurs prix", "Des cartes géographiques"],
+        "answer": "Les matériels électriques et leurs prix"
+      },
+      {
+        "question": "Quel avantage principal offre Excel pour gérer les prix ?",
+        "choices": ["Regarder des films animés", "Faire des calculs automatiques", "Modifier la couleur du bureau"],
+        "answer": "Faire des calculs automatiques"
+      },
+      {
+        "question": "Quel élément devez-vous calculer en plus du total et de la TVA ?",
+        "choices": ["Le nom du magasin", "La remise", "La taille de l'écran"],
+        "answer": "La remise"
+      },
+      {
+        "question": "Que peut-il se passer si vous écrivez mal une formule ?",
+        "choices": ["L'ordinateur va s'éteindre", "Des erreurs de calcul s'affichent", "Le fichier va s'imprimer"],
+        "answer": "Des erreurs de calcul s'affichent"
+      },
+      {
+        "question": "Quel outil mathématique utilise-t-on pour une formule ?",
+        "choices": ["Les opérateurs arithmétiques", "La règle graduée", "Les dossiers numériques"],
+        "answer": "Les opérateurs arithmétiques"
+      },
+      {
+        "question": "Quel outil vous aide à trouver la liste des matériels ?",
+        "choices": ["Un logiciel de dessin", "Un navigateur Internet", "Le lecteur de musique"],
+        "answer": "Un navigateur Internet"
+      }
+    ]
+  }
+]

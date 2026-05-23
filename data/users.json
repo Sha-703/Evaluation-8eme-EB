@@ -1,0 +1,47 @@
+[
+  {
+    "id": "9ddda07d-ecf3-4d23-b001-4203890e559a",
+    "name": "aaaa",
+    "email": "",
+    "passwordHash": "",
+    "role": "enseignant",
+    "school": "",
+    "progress": {}
+  },
+  {
+    "id": "30448cad-ee34-428f-b670-248b29d126b7",
+    "name": "aaa",
+    "email": "",
+    "passwordHash": "",
+    "role": "eleve",
+    "school": "",
+    "progress": {}
+  },
+  {
+    "id": "0a6eefc7-6e88-434b-8763-a565996f43dd",
+    "name": "ppp",
+    "email": "",
+    "passwordHash": "",
+    "role": "enseignant",
+    "school": "",
+    "progress": {}
+  },
+  {
+    "id": "65a400a3-92ed-416b-a0ca-1f1ad71b70fb",
+    "name": "longo",
+    "email": "longo@gmail.com",
+    "passwordHash": "f6035f930127c484695d06f5ebf7a98fbf79323bf44758aed3c2b4d00901e6d3",
+    "role": "enseignant",
+    "school": "",
+    "progress": {}
+  },
+  {
+    "id": "7cfebb3a-c5d8-4dd6-a188-baf170304e24",
+    "name": "aze",
+    "email": "",
+    "passwordHash": "9adfb0a6d03beb7141d8ec2708d6d9fef9259d12cd230d50f70fb221ae6cabd5",
+    "role": "eleve",
+    "school": "aaaa",
+    "progress": {}
+  }
+]
