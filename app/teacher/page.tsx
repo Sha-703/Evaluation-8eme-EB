@@ -116,7 +116,7 @@ export default function TeacherPage() {
     const read = Boolean(progress.lastVisited);
     const hasQuiz = typeof progress.lastScore === "number";
     const score = hasQuiz ? `${progress.lastScore} / ${module.questions.length}` : "-";
-    const passed = hasQuiz ? progress.lastScore >= Math.ceil(module.questions.length / 2) : false;
+    const passed = hasQuiz && typeof progress.lastScore === "number" ? progress.lastScore >= Math.ceil(module.questions.length / 2) : false;
 
     if (hasQuiz) {
       return {
