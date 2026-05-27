@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: didacticiel-8eme
+    runtime: node
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+    autoDeploy: true
+    branch: main
+    healthCheckPath: /
